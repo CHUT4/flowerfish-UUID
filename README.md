@@ -7,7 +7,6 @@ Aplikasi ini dibuat menggunakan **Tkinter** sebagai GUI toolkit.
 - Generate UUID v4 dengan sekali klik.
 - Copy hasil UUID ke clipboard.
 - Tampilan sederhana dan ringan.
-- Ikon custom `flowerfish.ico`.
 
 ## 📦 Instalasi & Menjalankan
 1. download uuid_gui.py dan flowerfish.ico
